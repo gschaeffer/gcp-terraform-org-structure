@@ -1,0 +1,14 @@
+
+billing_account = "111111-222222-333333"
+
+org_id = "123456789012"
+
+credentials_path = "~/.config/gcloud/credentials_file.json"
+
+terraform_bucket_project = ""
+# terraform_bucket_id       = ""
+# terraform_bucket_location = ""
+
+policy-skipDefaultNetworkCreation = "true"
+
+policy-resourceLocations = ["All"]

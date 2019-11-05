@@ -1,0 +1,12 @@
+.DS_Store
+terraform.tfvars
+terraform.tfplan
+terraform.tfstate
+terraform-provider-google
+*.backup
+./*.tfstate
+*.terraform/
+*.log
+*.bak
+*~
+config.sh
